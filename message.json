@@ -1,0 +1,18 @@
+{
+    "_id": "ObjectId('533b07a0f6436f98f800006e')",
+    "type_message": "success",
+    "language": "pt-BR",
+    "keywords" : ["insercao", "registro", "cadastro"],
+    "message" : "Parabéns! cadastro realizado com sucesso!!",
+    "profile": {
+        "sex": ["F", "M"],
+        "perfil": ["animado","2"],
+        "birthday": {
+            "start": "1995-01-01 00:00:00 UTC",
+            "end" : "2001-01-01 00:00:00 UTC"
+        },
+        "config": {
+            "system_type": "padrao"
+        }
+    }
+}

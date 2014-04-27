@@ -1,0 +1,9 @@
+{
+    "name" : "Bruno Casali",
+    "sex": "M",
+    "peril" : 2,
+    "birthday":"1980-01-01 00:00:00 UTC",
+    "config": {
+        "system_type": "padrao"
+    }
+}

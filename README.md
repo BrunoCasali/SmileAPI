@@ -1,4 +1,4 @@
-SmileAPI
-========
+smile-api
+=========
 
-This is an project that makes you smile a lot!!!
+This is an API, that make you smile :D
