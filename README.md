@@ -9,6 +9,6 @@ Authors
 
 Bruno Casali 		: [@brunoocasali](http://twitter.com/brunoocasali)
  
-Jonatan Ribeiro 	: [@CBJonatanSantos](http://twitter.com/CBJonatanSantos)
+Jonatan Ribeiro 	: [@joridos](http://twitter.com/joridos)
 
 
